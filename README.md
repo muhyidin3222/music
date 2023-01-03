@@ -1,6 +1,6 @@
 # APP MUSIC
 
-Link Demo [Music](https://music-rho-brown.vercel.app/result).
+Link Demo [Music](https://music-rho-brown.vercel.app).
 
 ## Available Scripts
 
