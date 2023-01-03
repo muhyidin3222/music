@@ -17,11 +17,11 @@ In the project directory, you can run:
 ## REVIEW
 
 # page home
-![alt text](https://github.com/muhyidin3222/music/blob/master/ss1.png?raw=true)
+![alt text](https://github.com/muhyidin3222/music/blob/master/public/ss1.png?raw=true)
 
 # page list search
-![alt text](https://github.com/muhyidin3222/music/blob/master/ss2.png?raw=true)
+![alt text](https://github.com/muhyidin3222/music/blob/master/public/ss2.png?raw=true)
 
 
 # popup search
-![alt text](https://github.com/muhyidin3222/music/blob/master/ss3.png?raw=true)
+![alt text](https://github.com/muhyidin3222/music/blob/master/public/ss3.png?raw=true)
